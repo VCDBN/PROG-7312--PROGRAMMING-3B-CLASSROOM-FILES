@@ -1,0 +1,14 @@
+C:\Users\dengovender\source\repos\DictionaryClassWork\bin\Debug\net7.0\DictionaryClassWork.exe
+C:\Users\dengovender\source\repos\DictionaryClassWork\bin\Debug\net7.0\DictionaryClassWork.deps.json
+C:\Users\dengovender\source\repos\DictionaryClassWork\bin\Debug\net7.0\DictionaryClassWork.runtimeconfig.json
+C:\Users\dengovender\source\repos\DictionaryClassWork\bin\Debug\net7.0\DictionaryClassWork.dll
+C:\Users\dengovender\source\repos\DictionaryClassWork\bin\Debug\net7.0\DictionaryClassWork.pdb
+C:\Users\dengovender\source\repos\DictionaryClassWork\obj\Debug\net7.0\DictionaryClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\source\repos\DictionaryClassWork\obj\Debug\net7.0\DictionaryClassWork.AssemblyInfoInputs.cache
+C:\Users\dengovender\source\repos\DictionaryClassWork\obj\Debug\net7.0\DictionaryClassWork.AssemblyInfo.cs
+C:\Users\dengovender\source\repos\DictionaryClassWork\obj\Debug\net7.0\DictionaryClassWork.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\source\repos\DictionaryClassWork\obj\Debug\net7.0\DictionaryClassWork.dll
+C:\Users\dengovender\source\repos\DictionaryClassWork\obj\Debug\net7.0\refint\DictionaryClassWork.dll
+C:\Users\dengovender\source\repos\DictionaryClassWork\obj\Debug\net7.0\DictionaryClassWork.pdb
+C:\Users\dengovender\source\repos\DictionaryClassWork\obj\Debug\net7.0\DictionaryClassWork.genruntimeconfig.cache
+C:\Users\dengovender\source\repos\DictionaryClassWork\obj\Debug\net7.0\ref\DictionaryClassWork.dll
