@@ -1,0 +1,14 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\bin\Debug\net7.0\SortedDictionary-Working with Object.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\bin\Debug\net7.0\SortedDictionary-Working with Object.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\bin\Debug\net7.0\SortedDictionary-Working with Object.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\bin\Debug\net7.0\SortedDictionary-Working with Object.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\bin\Debug\net7.0\SortedDictionary-Working with Object.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\obj\Debug\net7.0\SortedDictionary-Working with Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\obj\Debug\net7.0\SortedDictionary-Working with Object.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\obj\Debug\net7.0\SortedDictionary-Working with Object.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\obj\Debug\net7.0\SortedDictionary-Working with Object.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\obj\Debug\net7.0\SortedDictionary-Working with Object.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\obj\Debug\net7.0\refint\SortedDictionary-Working with Object.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\obj\Debug\net7.0\SortedDictionary-Working with Object.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\obj\Debug\net7.0\SortedDictionary-Working with Object.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\SortedDictionary-Working with Object\obj\Debug\net7.0\ref\SortedDictionary-Working with Object.dll
