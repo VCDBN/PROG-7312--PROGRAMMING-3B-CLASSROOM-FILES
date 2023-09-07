@@ -1,0 +1,28 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\bin\Debug\net7.0\Circular List.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\bin\Debug\net7.0\Circular List.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\bin\Debug\net7.0\Circular List.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\bin\Debug\net7.0\Circular List.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\bin\Debug\net7.0\Circular List.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\obj\Debug\net7.0\Circular List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\obj\Debug\net7.0\Circular List.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\obj\Debug\net7.0\Circular List.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\obj\Debug\net7.0\Circular List.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\obj\Debug\net7.0\Circular List.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\obj\Debug\net7.0\refint\Circular List.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\obj\Debug\net7.0\Circular List.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\obj\Debug\net7.0\Circular List.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Circular List\Circular List\obj\Debug\net7.0\ref\Circular List.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\bin\Debug\net7.0\Circular List.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\bin\Debug\net7.0\Circular List.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\bin\Debug\net7.0\Circular List.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\bin\Debug\net7.0\Circular List.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\bin\Debug\net7.0\Circular List.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\obj\Debug\net7.0\Circular List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\obj\Debug\net7.0\Circular List.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\obj\Debug\net7.0\Circular List.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\obj\Debug\net7.0\Circular List.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\obj\Debug\net7.0\Circular List.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\obj\Debug\net7.0\refint\Circular List.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\obj\Debug\net7.0\Circular List.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\obj\Debug\net7.0\Circular List.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 15-16\Circular List- My Little Music Player\Circular List\obj\Debug\net7.0\ref\Circular List.dll
