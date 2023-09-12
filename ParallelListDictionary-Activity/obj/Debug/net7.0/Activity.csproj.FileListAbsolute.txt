@@ -1,0 +1,14 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\bin\Debug\net7.0\Activity.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\bin\Debug\net7.0\Activity.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\bin\Debug\net7.0\Activity.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\bin\Debug\net7.0\Activity.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\bin\Debug\net7.0\Activity.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\obj\Debug\net7.0\Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\obj\Debug\net7.0\Activity.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\obj\Debug\net7.0\Activity.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\obj\Debug\net7.0\Activity.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\obj\Debug\net7.0\Activity.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\obj\Debug\net7.0\refint\Activity.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\obj\Debug\net7.0\Activity.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\obj\Debug\net7.0\Activity.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\Activity\obj\Debug\net7.0\ref\Activity.dll

@@ -1,0 +1,14 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\bin\Debug\net7.0\ParallelListDictionary.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\bin\Debug\net7.0\ParallelListDictionary.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\bin\Debug\net7.0\ParallelListDictionary.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\bin\Debug\net7.0\ParallelListDictionary.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\bin\Debug\net7.0\ParallelListDictionary.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\obj\Debug\net7.0\ParallelListDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\obj\Debug\net7.0\ParallelListDictionary.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\obj\Debug\net7.0\ParallelListDictionary.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\obj\Debug\net7.0\ParallelListDictionary.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\obj\Debug\net7.0\ParallelListDictionary.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\obj\Debug\net7.0\refint\ParallelListDictionary.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\obj\Debug\net7.0\ParallelListDictionary.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\obj\Debug\net7.0\ParallelListDictionary.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 25-26\ParallelListDictionary\obj\Debug\net7.0\ref\ParallelListDictionary.dll
